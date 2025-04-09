@@ -1,5 +1,5 @@
 # Cricket-Player-Performance-Prediction
-[CricketPrediction]()
+[CricketPrediction](https://github.com/hotaanshuman4/Cricket-Player-Performance-Prediction/blob/06eee8502804d30dd8f55a1c3c4707cc2427415b/b2c3e362fd865551b264755169ab73f9.jpg)
 
 ## Introduction
 A match prediction on a cricket game adds and creates interest for a fan watching a cricket match. Apart from having fun while watching a game, it helps people to come up with their Dream XI team. By keeping in mind the factors relating to the prediction the model predicts the performance of an individual player.
