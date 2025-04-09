@@ -20,10 +20,10 @@ Dataset: Includes historical ODI match data for various players and teams.
 ## Requirements
 To run this project, you'll need the following Python libraries:
 
-numpy
-pandas
-seaborn
-matplotlib
+numpy,
+pandas,
+seaborn,
+matplotlib,
 scikit-learn
 
 ## Future Improvements
